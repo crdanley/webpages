@@ -16,7 +16,7 @@ color: #DECAFF;
 border: 1px solid #DECAFF;
 }
 
-#photo-resize{
+#photo-resize {
 max-width: 250px;
- max-height: 300px;
+max-height: 300px;
 }
